@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on FrontEnd developer and React projects
+- 👯 I’m looking to collaborate on frontend developer and React projects
 - 📫 How to reach me: m.vidamohammadi@gmail.com
 - 😄 Pronouns: She/Her
 - ✨ What I like to do: Learning and Update myself💫, Coding ofcourse👩🏻‍💻, Reading Books📖, Playing guitar🎼, Watching movies
