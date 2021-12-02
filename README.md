@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on FrontEnd developer and React projects
 - 📫 How to reach me: m.vidamohammadi@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ What I like to do: 
+- ✨ What I like to do: Learning and Update myself💫, Coding ofcourse👩🏻‍💻, Reading Books📖, Playing guitar🎼, Watching movies
 <!--
 **vidamohammadi/vidamohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
