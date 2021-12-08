@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React.js
+- 🌱 I'm interested in React.js
 - 👯 I’m looking to collaborate on frontend developer and React projects
 - 📫 How to reach me: m.vidamohammadi@gmail.com
 - 😄 Pronouns: She/Her
