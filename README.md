@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I'm interested in developing
+- 🌱 I'm interested in Front-End developing
 - 👯 I’m looking to collaborate on frontend developer and React projects
 - 📫 How to reach me: m.vidamohammadi@gmail.com
 - 😄 Pronouns: She/Her
